@@ -22,6 +22,10 @@ fun findCommand(input: String): Boolean {
 }
 
 fun main(args: Array<String>) {
+    var zipPart: String? = null
+
+
+
     var vfsPart: String? = null
     var scrPart: String? = null
 
